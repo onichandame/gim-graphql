@@ -11,6 +11,7 @@ import (
 )
 
 var MainModule = gim.Module{
+	Name:      `MainModule`,
 	Imports:   []*gim.Module{&gimgraphql.GraphqlModule},
 	Providers: []interface{}{newMainResolver, newMainService},
 }

@@ -49,8 +49,8 @@ github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJ
 github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
-github.com/onichandame/gim v0.5.10 h1:WrsBXlk8AO2dxOnF69PLKsOpa70vvIp6lwKNrBLToqU=
-github.com/onichandame/gim v0.5.10/go.mod h1:OaGZwPn8E4JlqU8VUJvpq7p1K5H8AWr1oeMEbEjRW1w=
+github.com/onichandame/gim v0.6.0 h1:2YVVIna1EHoEvUQyK8myW8nUDThnqgDGZxgMRhx0Q3c=
+github.com/onichandame/gim v0.6.0/go.mod h1:OaGZwPn8E4JlqU8VUJvpq7p1K5H8AWr1oeMEbEjRW1w=
 github.com/onichandame/go-utils v0.0.5/go.mod h1:/GfmJiGG8PovCgL8+PiKhe9ULzX8mwJ080ATTXo978E=
 github.com/onichandame/go-utils v0.0.6 h1:Va7ESQe3/7UZJS1PKF8Ke7AcFpJVxksDrqMPtVwULZU=
 github.com/onichandame/go-utils v0.0.6/go.mod h1:/GfmJiGG8PovCgL8+PiKhe9ULzX8mwJ080ATTXo978E=
@@ -91,8 +91,9 @@ golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7w
 golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/sys v0.0.0-20210806184541-e5e7981a1069/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
-golang.org/x/sys v0.0.0-20211102061401-a2f17f7b995c h1:QOfDMdrf/UwlVR0UBq2Mpr58UzNtvgJRXA4BgPfFACs=
 golang.org/x/sys v0.0.0-20211102061401-a2f17f7b995c/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1 h1:kwrAHlwJ0DUBZwQ238v+Uod/3eZ8B2K5rYsUHBQvzmI=
+golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
 golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
